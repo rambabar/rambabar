@@ -1,5 +1,5 @@
 # Hi, I'm Ramchandra Babar 👋
-### Senior AI Engineer & Data Scientist (4.5+ YOE)
+### AI Engineer & Data Scientist (4.5+ YOE)
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-ram--portfolio--green.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://ram-portfolio-green.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rambabar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rambabar/)
@@ -59,4 +59,3 @@ Computer Vision     : YOLOv8 ONNX, OpenCV DNN, ResNet50, CenterNet, EfficientDet
 - 💼 **LinkedIn:** [linkedin.com/in/rambabar](https://www.linkedin.com/in/rambabar/)
 - 🌐 **Interactive Portfolio:** [ram-portfolio-green.vercel.app](https://ram-portfolio-green.vercel.app/)
 - 📧 **Email:** [rambabar108@gmail.com](mailto:rambabar108@gmail.com)
-- 📱 **Phone:** +91 8485046497
